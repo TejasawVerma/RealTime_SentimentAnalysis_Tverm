@@ -1,0 +1,4 @@
+azure-functions
+tweepy==4.10.0
+azure-eventhub
+python-dotenv
