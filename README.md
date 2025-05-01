@@ -32,15 +32,11 @@ Folder Structure
 - `/powerbi`: Power BI report or screenshot
 - `/architecture`: Visual architecture of the full pipeline
 
-Sample Output
-
-
 Security & Best Practices
 
 - Uses **OAuth2 Access Connector** for ABFS access (no keys in code)
 - Fully compliant with Unity Catalog + Databricks governance
 - All credentials stored via Azure Key Vault / environment variables
-
 
 Learning Outcomes
 
