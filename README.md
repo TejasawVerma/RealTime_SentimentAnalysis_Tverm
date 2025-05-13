@@ -16,6 +16,8 @@ Tech Stack
 
 Architecture
 
+![Architecture](https://github.com/user-attachments/assets/a7da63ff-c9ca-40c8-8dce-e64fc3ca8191)
+
 Features
 
 - Real-time tweet ingestion using Azure Functions and Twitter API
