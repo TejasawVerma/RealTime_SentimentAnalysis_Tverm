@@ -15,7 +15,7 @@ Tech Stack
 - **Power BI (Live Dashboard)**
 
 Architecture
-![README md](https://github.com/user-attachments/assets/a61f41fc-b359-4502-88ba-3563f106d0a4)
+
 Features
 
 - Real-time tweet ingestion using Azure Functions and Twitter API
